@@ -7,4 +7,4 @@
 ![这里写图片描述](http://img.blog.csdn.net/20161024003900504)
 
 #关于本项目学习博客
->http://blog.csdn.net/m366917/article/details/52976877
+>[超酷的计步器APP（一）——炫酷功能实现，自定义水波纹特效、自定义炫酷开始按钮、属性动画的综合体验](http://blog.csdn.net/m366917/article/details/52976877)
